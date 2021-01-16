@@ -1,3 +1,7 @@
 ola mundo
 tudo bem 
 newb
+=======
+master master 
+master 
+>>>>>>> master
